@@ -1,0 +1,15 @@
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\Polymorphisme_PBO.csproj.AssemblyReference.cache
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\Polymorphisme_PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\Polymorphisme_PBO.AssemblyInfoInputs.cache
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\Polymorphisme_PBO.AssemblyInfo.cs
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\Polymorphisme_PBO.csproj.CoreCompileInputs.cache
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\bin\Debug\net6.0\Polymorphisme_PBO.exe
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\bin\Debug\net6.0\Polymorphisme_PBO.deps.json
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\bin\Debug\net6.0\Polymorphisme_PBO.runtimeconfig.json
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\bin\Debug\net6.0\Polymorphisme_PBO.dll
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\bin\Debug\net6.0\Polymorphisme_PBO.pdb
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\Polymorphisme_PBO.dll
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\refint\Polymorphisme_PBO.dll
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\Polymorphisme_PBO.pdb
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\Polymorphisme_PBO.genruntimeconfig.cache
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Polymorphisme\C#\Polymorphisme_PBO\obj\Debug\net6.0\ref\Polymorphisme_PBO.dll

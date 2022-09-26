@@ -1,0 +1,15 @@
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\Method Overriding_PBO.csproj.AssemblyReference.cache
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\Method Overriding_PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\Method Overriding_PBO.AssemblyInfoInputs.cache
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\Method Overriding_PBO.AssemblyInfo.cs
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\Method Overriding_PBO.csproj.CoreCompileInputs.cache
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\bin\Debug\net6.0\Method Overriding_PBO.exe
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\bin\Debug\net6.0\Method Overriding_PBO.deps.json
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\bin\Debug\net6.0\Method Overriding_PBO.runtimeconfig.json
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\bin\Debug\net6.0\Method Overriding_PBO.dll
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\bin\Debug\net6.0\Method Overriding_PBO.pdb
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\Method Overriding_PBO.dll
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\refint\Method Overriding_PBO.dll
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\Method Overriding_PBO.pdb
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\Method Overriding_PBO.genruntimeconfig.cache
+C:\TUGAS KULIAH\SMST 3\PBO\PBO TUGAS 1\Method Overriding\C#\Method Overriding_PBO\obj\Debug\net6.0\ref\Method Overriding_PBO.dll

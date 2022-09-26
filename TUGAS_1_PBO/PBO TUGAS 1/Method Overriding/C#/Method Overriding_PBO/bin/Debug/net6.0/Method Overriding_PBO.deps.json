@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Method Overriding_PBO/1.0.0": {
+        "runtime": {
+          "Method Overriding_PBO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method Overriding_PBO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
